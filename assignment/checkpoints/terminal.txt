@@ -1,21 +1,33 @@
 # Type your responses on a new line
 
 # 1 - What is the command for listing the files in the current folder (directory)?
+      ls
 
 # 2 - What is the command for changing directories?
+      cd
 
 # 3 - What is the command for going "up" a folder (to a parent directory)?
+      cd ..
 
 # 4 - What is a quick way to create a new folder?
+      mkdir +
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
+      Since 'ls' prints a list of the contents of a directory, using it in an empty folder would have nothing to print and appear to do nothing. In a folder containing files, using it would list the contents of that folder.
 
 # 6 - What is a quick way to create a new file?
+      touch
 
 # 7 - Run 'git --version' in your terminal. What is the output?
+      git version 2.15.0
 
 # 8 - Why would you run the command 'git status'?
+      The primary reason to use the 'git status' command within a repository's folder will print a list of files in the folder containing changes and whether of not they have been staged for commit or not.
 
-# 9 - What does the command 'git add .' do?
+# 9 - What does the command 'git add.' do?
+      The 'git add.' command stages the files that have changes to be committed.
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+      git push
+
+ //As a former teacher, I have a tendency to use full sentences and/or essay responses to questions unless the particular question is more of a factual question. Feel free to let me know if you'd like something different. I also noticed questions seemed to be typed in a single line, so I did so for my answers but will also gladly do this differently in the future if you like. I know how frustrating it can be if someone constantly turns in assignments in a different format than expected even if they answered everything correctly.
